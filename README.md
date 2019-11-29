@@ -15,7 +15,7 @@
   * [The official Ubuntu Installation Guide](https://help.ubuntu.com/community/GraphicalInstall)
     * I downloaded an ISO from [here](http://cdimage.ubuntu.com/releases/18.04.3/release/?_ga=2.134170190.1104284630.1574932620-706300109.1574932620) (That is the 64-bit **Ubuntu 18.04.3 LTS (Bionic Beaver)** indeed)
     * And there's [instruction on how to make a USB stick for installation](https://help.ubuntu.com/community/Installation/FromUSBStick) with some [detailed information](https://ubuntuforums.org/showthread.php?t=2230389)
-      * a third-party Chinese instruction from [CSDN](https://blog.csdn.net/Allyli0022/article/details/81674504) providing another option
+      * a third-party Chinese instruction from [CSDN](https://blog.csdn.net/Allyli0022/article/details/81674504) providing another option (**I used this**)
 * I found the NVidia Driver I should install is probably [this](https://www.nvidia.com/download/driverResults.aspx/154997/en-us)
 * I decided to get my USB installer ready first, and then wait for the machine to come, the order of trying is:
   * [The tutorial installing Nvidia Drivers on Ubuntu Bionic Beaver](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux)
@@ -23,3 +23,4 @@
   * otherwise use Google
   * or turn to labmates for help
 
+## Installation
