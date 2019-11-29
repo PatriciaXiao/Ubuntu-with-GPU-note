@@ -17,7 +17,7 @@
     * And there's [instruction on how to make a USB stick for installation](https://help.ubuntu.com/community/Installation/FromUSBStick) with some [detailed information](https://ubuntuforums.org/showthread.php?t=2230389)
       * a third-party Chinese instruction from [CSDN](https://blog.csdn.net/Allyli0022/article/details/81674504) providing another option (**I used this**)
 * I found the NVidia Driver I should install is probably [this](https://www.nvidia.com/download/driverResults.aspx/154997/en-us)
-* I decided to get my USB installer ready first, and then wait for the machine to come, the order of trying is:
+* I decided to get my USB installer ready (following [this CSDN blog]((https://blog.csdn.net/Allyli0022/article/details/81674504))) first, and then wait for the machine to come, the order of trying is:
   * [The tutorial installing Nvidia Drivers on Ubuntu Bionic Beaver](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux)
     * Refer to the [Chinese discussion](https://blog.csdn.net/tjuyanming/article/details/80862290) first if any problem encountered
   * otherwise use Google
