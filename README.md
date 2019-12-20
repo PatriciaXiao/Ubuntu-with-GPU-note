@@ -27,6 +27,9 @@
 * Okay my desktop comes so fast, thanks to iBuyPower.
 * Tried installing and found that I used the wrong version --- why am I using server version...
 * The right version comes here [18.04 **Bionic Beaver**](http://releases.ubuntu.com/18.04/)
+* Then [the official Ubuntu Installation Guide](https://help.ubuntu.com/community/GraphicalInstall)
+* [The tutorial installing Nvidia Drivers on Ubuntu Bionic Beaver](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux)
+* Then cudnn
 
 ## Installation
 * So it at least does install something, but wrong version somehow
