@@ -1,7 +1,7 @@
 # Ubuntu with GPU note
  My personal note of installing the OS on an empty machine, with GPU driver
 
-## Preparation
+## Pre-Preparation
 * First I am lazy so I get my machine from [iBuyPower](https://www.ibuypower.com/Site/Computer/desktops) during the black friday sale
   * I'm planning on getting my tax back though, tax is high at that price
   * To have a powerful GPU you need to have a strong power support as well
@@ -23,4 +23,10 @@
   * otherwise use Google
   * or turn to labmates for help
 
+## Preparation
+* Okay my desktop comes so fast, thanks to iBuyPower.
+* Tried installing and found that I used the wrong version --- why am I using server version...
+* The right version comes here [18.04 **Bionic Beaver**](http://releases.ubuntu.com/18.04/)
+
 ## Installation
+* So it at least does install something, but wrong version somehow
