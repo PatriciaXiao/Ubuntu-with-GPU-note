@@ -46,6 +46,7 @@
         ```
     * Now it detects the NVidia GPU card and recommends drivers
       * caution: it takes longer for the detection though
+  * Problem 2: while the installation runs the display suddenly went off but I hear the fan goes like crazy
 
 
 
