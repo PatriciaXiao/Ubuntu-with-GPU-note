@@ -37,7 +37,16 @@
     * Fixed by having the right version **desktop** ([18.04 **Bionic Beaver**](http://releases.ubuntu.com/18.04/))
   * Problem 2: it seems that it is not successfully installing anything? It keeps boosting from the USB drive and asking me to install, once and once again, for always.
     * Fixed by (I don't fully understand what happened there) boosting from a newly-created **partition** of the USB drive and then it is foreverly installed. No tutorial online has mentioned this.
-    
+* Installing GPU Driver:
+  * Problem 1: Tried to follow the [unofficial tutorial](https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-18-04-bionic-beaver-linux) at first but the first step seems to be different.
+    * Detailed description of the problem found: when saying ```ubuntu-drivers devices```, not showing any NVidia info.
+    * Fixation from the forum [here](https://forums.linuxmint.com/viewtopic.php?t=287206): 
+        ```shell
+        sudo apt-add-repository ppa:graphics-drivers/ppa
+        ```
+    * Now it detects the NVidia GPU card and recommends drivers
+      * caution: it takes longer for the detection though
+
 
 
 
