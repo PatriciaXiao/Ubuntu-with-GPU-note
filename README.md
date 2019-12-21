@@ -32,4 +32,13 @@
 * Then cudnn
 
 ## Installation
-* So it at least does install something, but wrong version somehow
+* Installing Ubuntu:
+  * Problem 1: my installation USB drive at least does install something, but wrong version somehow
+    * Fixed by having the right version **desktop** ([18.04 **Bionic Beaver**](http://releases.ubuntu.com/18.04/))
+  * Problem 2: it seems that it is not successfully installing anything? It keeps boosting from the USB drive and asking me to install, once and once again, for always.
+    * Fixed by (I don't fully understand what happened there) boosting from a newly-created **partition** of the USB drive and then it is foreverly installed. No tutorial online has mentioned this.
+    
+
+
+
+
