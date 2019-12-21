@@ -47,6 +47,15 @@
     * Now it detects the NVidia GPU card and recommends drivers
       * caution: it takes longer for the detection though
   * Problem 2: while the installation runs the display suddenly went off but I hear the fan goes like crazy
+    * seems that it is because of during the installation, the display is temporarily blocked
+* Installing CUDA
+  * I found that following the above steps CUDA is already installed (check by ```nvidia-smi```)
+* Done
+
+## Conclusion
+* This is not a very easy thing to do, everything online is more or less not exactly your situation.
+* Be patient and be confident that you can do it.
+
 
 
 
